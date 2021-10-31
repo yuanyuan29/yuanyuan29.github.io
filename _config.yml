@@ -83,8 +83,7 @@ author:
   name             : "Yuan Yuan"
   avatar           : "profile.jpg"
   bio              : "School of Computer Science, The University of Sydney, Australia."
-  location1        : "Sydney, Australia"
-  location2        : "Shanghai, China"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : 
   googlescholar    : 

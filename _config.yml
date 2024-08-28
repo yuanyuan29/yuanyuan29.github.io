@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.D. candidate Yuan Yuan"
+title                    : "Ph.D. candidate Yuan YUAN"
 title_separator          : "-"
-name                     : &name "Ph.D. candidate Yuan Yuan"
+name                     : &name "Ph.D. candidate Yuan YUAN"
 description              : &description "School of Computer Science, The University of Sydney, Australia."
 url                      : https://yuanyuan29.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan Yuan"
+  name             : "Yuan YUAN"
   avatar           : "profile.jpg"
   bio              : "School of Computer Science, The University of Sydney, Australia."
   location         : "Sydney, Australia"

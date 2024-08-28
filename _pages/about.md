@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuan Yuan's home on the web!
+I am a PhD candidate at the School of Computer Science, The University of Sydney. I received B. Eng degree from Northwestern Polytechnical University, China, 2019.
+My research focus is on the development of deep learning methods for medical image analysis to improve cancer detection and diagnosis using multi-modal medical images such as PET/CT and multi-parametric MRI.
 
 <!-- A data-driven personal website
 ======

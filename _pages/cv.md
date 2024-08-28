@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Information Engineering, Northwestern Polytechnical University, 2019
-* Ph.D in Computer Science, The University of Sydney, 2023 (expected)
+* B.Eng. in Information Engineering, Northwestern Polytechnical University, 2015--2019
+* Ph.D in Computer Science, The University of Sydney, 2020--
 
 <!-- Work experience
 ======

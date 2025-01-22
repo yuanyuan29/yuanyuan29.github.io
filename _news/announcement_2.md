@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I enrolled in my research degree at University of Sydney, Australia. 
-date: 2020-07 15:08:00-0400
+date: 2020-07-01 15:08:00-0400
 inline: false
 related_posts: false
 ---

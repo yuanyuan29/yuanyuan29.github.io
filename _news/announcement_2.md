@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I enrolled in my research degree at James Cook University, Australia. 
-date: 2023-11-20 15:08:00-0400
+title: I enrolled in my research degree at University of Sydney, Australia. 
+date: 2020-07 15:08:00-0400
 inline: false
 related_posts: false
 ---

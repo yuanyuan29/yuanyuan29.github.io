@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.taoicclab.com/'>Affiliations</a>. James Cook University, Cairns, Australia.
+subtitle: <a href='https://github.com/bdavsydney'>Affiliations</a>. University of Sydney, NSW, Australia.
 
 profile:
   align: right

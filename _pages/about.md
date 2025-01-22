@@ -9,10 +9,10 @@ profile:
   image: profilePhoto/yuanyuan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Quanwei (Leo) Liu</p>
-    <p>quanwei.liu@my.jcu.edu.au</p>
-    <p>College of Science and Engineering, James Cook University</p>
-    <p>Cairns, QLD, Australia</p>
+    <p>Yuan Yuan</p>
+    <p>yyua9990@uni.sydney.edu.au</p>
+    <p>Doctor of Philosophy in Engineering</p>
+    <p>NSW, Australia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome to My Homepage!
 
-I am in the first year of my PhD at [JCU](https://www.jcu.edu.au/). I received my Master from School of China Uiversity of Geosciences, Wuhan, in 2023.
+I have finished my thesis and nearly graduate at [usyd](https://www.sydney.edu.au/). I received my Bachelor's degree from Northwestern Polytechnical University, in 2019.
 
 I focus on developing advanced deep learning technologies for remote sensing image analysis. My research interests include computer vision, multi-modal fusion, image classification and semantic segmentation. I focus on hyperspectral image classification, oil spill detection and multimodal remote sensing image segmentation. 
 

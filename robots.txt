@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://quanweiliu.github.io/sitemap.xml
+
+
+rm -rf .git
+git init
+git remote add origin https://github.com/yuanyuan29/yuanyuan29.github.io.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main

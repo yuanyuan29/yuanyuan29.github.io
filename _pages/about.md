@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/bdavsydney'>Affiliations</a>. University of Sydney, NSW, Australia.
+subtitle: <a href='https://www.sydney.edu.au/'>Affiliations</a>. University of Sydney, Sydney, NSW, Australia.
 
 profile:
   align: right

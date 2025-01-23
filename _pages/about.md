@@ -20,9 +20,8 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome to My Homepage!
 
-I have finished my thesis and nearly graduate at [usyd](https://www.sydney.edu.au/). I received my Bachelor's degree from Northwestern Polytechnical University, in 2019.
-
-I focus on developing advanced deep learning technologies for remote sensing image analysis. My research interests include computer vision, multi-modal fusion, image classification and semantic segmentation. I focus on hyperspectral image classification, oil spill detection and multimodal remote sensing image segmentation. 
+I am a PhD Candidate under the supervision of Prof. [Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), Dr. Euijoon (Osmond) Ahn, Prof. Mohamed Khadra and Prof. (David) Dagan Feng at [the Biomedical Data Analysis and Visualisation (BDAV) Lab](https://github.com/bdavsydney), School of Computer Science, [The University of Sydney](https://www.sydney.edu.au/). Prior to this, I received my B. Eng degree from Northwestern Polytechnical University, China, 2019.
+My research focuses on developing advanced deep learning models for multimodal medical image analysis, aiming to enhance image segmentation, detection, and classification, ultimately benefiting cancer diagnosis and prognosis.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -20,7 +20,8 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome to My Homepage!
 
-I am a PhD Candidate under the supervision of Prof. [Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), Dr. Euijoon (Osmond) Ahn, Prof. Mohamed Khadra and Prof. (David) Dagan Feng at [the Biomedical Data Analysis and Visualisation (BDAV) Lab](https://github.com/bdavsydney), School of Computer Science, [The University of Sydney](https://www.sydney.edu.au/). Prior to this, I received my B. Eng degree from Northwestern Polytechnical University, China, 2019.
+I am a PhD Candidate under the supervision of Prof. [Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), Dr. [Euijoon (Osmond) Ahn](https://portfolio.jcu.edu.au/Researchers/euijoon.ahn), Prof. [Mohamed Khadra](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mohamed.khadra.html) and Prof. [(David) Dagan Feng](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/mohamed.khadra.html) at [the Biomedical Data Analysis and Visualisation (BDAV) Lab](https://github.com/bdavsydney), School of Computer Science, [The University of Sydney](https://www.sydney.edu.au/). Prior to this, I received my B. Eng degree from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), China, 2019.
+
 My research focuses on developing advanced deep learning models for multimodal medical image analysis, aiming to enhance image segmentation, detection, and classification, ultimately benefiting cancer diagnosis and prognosis.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

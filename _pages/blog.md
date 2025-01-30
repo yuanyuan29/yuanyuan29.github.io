@@ -2,7 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+# 下面是ture 就是显示
+# nav: true
 nav_order: 1
 pagination:
   enabled: true

@@ -175,23 +175,5 @@
         "Transformer"
       ]
     }
-  ],
-  "projects": [
-    {
-      "name": "Research on Deep Migration Measure Learning Method for Hyperspectral Remote Sensing Image Classification",
-      "summary": "",
-      "highlights": ["国家自然科学基金面上项目"],
-      "startDate": "2018",
-      "endDate": "-",
-      "url": "https://rsit.top/jijin.html"
-    },
-    {
-      "name": "Low-cost Sensing Methods and Hybrid Learning Models",
-      "summary": "This project aims to revolutionize the theory and practice of sensing and monitoring by developing novel Artificial Intelligence and Internet of Things technologies. This project expects to generate new knowledge in Artificial Intelligence of Things by combining sensing, machine learning, and big data analytics. Expected outcomes of this project include novel low-cost sensing methods and new hybrid machine-learning models for predictive sensory data analytics. This should provide significant benefits, such as substantially reduced operating and service costs and improved accuracy for real-time monitoring in the fields where cheap-to-implement and easy-to-service monitoring systems over large geographical areas are imperative.",
-      "highlights": ["Australian Research Council Discovery Project"],
-      "startDate": "2023",
-      "endDate": "-",
-      "url": "https://www.arc.gov.au/funding-research/discovery-linkage/discovery-program/discovery-projects"
-    }
   ]
 }

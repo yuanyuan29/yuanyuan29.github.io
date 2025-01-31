@@ -91,31 +91,59 @@
   ],
   "publications": [
     {
-      "name": "Weighted feature fusion of convolutional neural network and graph attention network for hyperspectral image classification",
-      "publisher": "IEEE",
-      "releaseDate": "2022-01-25",
-      "url": "https://ieeexplore-ieee-org.elibrary.jcu.edu.au/abstract/document/9693311/",
-      "summary": "Weighted Feature Fusion of Convolutional Neural Network and Graph Attention Network for Hyperspectral Image Classification."
+      "name": "Artificial intelligence and radiologists in prostate cancer detection on MRI (PI-CAI): an international, paired, non-inferiority, confirmatory study",
+      "publisher": "The Lancet Oncology",
+      "releaseDate": "2024-06-11",
+      "url": "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00220-1/fulltext/",
+      "summary": "Anindo Saha, MSc,* Joeran S Bosma, MSc,* Jasper J Twilt, MSc,* Prof Bram van Ginneken, PhD Prof Anders Bjartell, MD, ... Yuan Yuan, ..."
     },
     {
-      "name": "A Fast Dynamic Graph Convolutional Network and CNN Parallel Network for Hyperspectral Image Classification",
-      "publisher": "IEEE",
-      "releaseDate": "2020-05-30",
-      "url": "https://ieeexplore-ieee-org.elibrary.jcu.edu.au/abstract/document/9785802/",
-      "summary": "A Fast Dynamic Graph Convolutional Network and CNN Parallel Network for Hyperspectral Image Classification."
+      "name": "Deep intrinsic image decomposition using joint parallel learning",
+      "publisher": "Springer International Publishing",
+      "releaseDate": "2019-06-12",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-22514-8_28/",
+      "summary": "Yuan Yuan, Bin Sheng, Ping Li, Lei Bi, Jinman Kim & Enhua Wu."
     },
     {
-      "name": "Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning",
+      "name": "Z-SSMNet: Zonal-aware Self-supervised Mesh Network for Prostate Cancer Detection and Diagnosis with Bi-parametric MRI",
       "publisher": "arXiv ",
-      "releaseDate": "2023-10-24",
-      "url": "https://arxiv.org/abs/2310.15767",
-      "summary": "Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning."
+      "releaseDate": "2022-12-12",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gq0qqX4AAAAJ&citation_for_view=gq0qqX4AAAAJ:0EnyYjriUFMC",
+      "summary": "Yuan Yuan, Euijoon Ahn, Dagan Feng, Mohamad Khadra, Jinman Kim."
+    },
+    {
+      "name": "Improving Breast Tumor Segmentation in PET via Attentive Transformation Based Normalization",
+      "publisher": "IEEE Journal of Biomedical and Health Informatics",
+      "releaseDate": "2022-04-04",
+      "url": "https://ieeexplore-ieee-org.elibrary.jcu.edu.au/abstract/document/9749023",
+      "summary": "Xiaoya Qiao, Chunjuan Jiang, Panli Li, Yuan Yuan, Qinglong Zeng, Lei Bi, Shaoli Song, Jinman Kim, David Dagan Feng, Qiu Huang."
+    },
+    {
+      "name": "Preoperative prediction of microvascular invasion and perineural invasion in pancreatic ductal adenocarcinoma with 18F-FDG PET/CT radiomics analysis",
+      "publisher": "Clinical Radiology",
+      "releaseDate": "2023-06-02",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0009926023002192",
+      "summary": "C Jiang, Y Yuan, B Gu, E Ahn, J Kim, D Feng, Q Huang, S Song."
+    },
+    {
+      "name": "SSPT-bpMRI: A Self-supervised Pre-training Scheme for Improving Prostate Cancer Detection and Diagnosis in Bi-parametric MRI",
+      "publisher": "2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+      "releaseDate": "2023-07-24",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0009926023002192",
+      "summary": "Yuan Yuan, Euijoon Ahn, Dagan Feng, Mohamad Khadra, Jinman Kim."
+    },
+    {
+      "name": "Prostate Imaging: Cancer AI (PI-CAI) Challenge 2022 Z-SSMNet: A Zonal-aware Self-Supervised Mesh Network for Prostate Cancer Detection and Diagnosis in bpMRI",
+      "publisher": "Cancer AI (PI-CAI) Challenge 2022 ",
+      "releaseDate": "2022",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0009926023002192",
+      "summary": "Yuan Yuan, Euijoon Ahn, Dagan Feng, Mohamad Khadra, Jinman Kim."
     }
   ],
   "skills": [
     {
-      "name": "Remote sensing image processing",
-      "level": "Master",
+      "name": "Medical image analysis",
+      "level": "PhD Cadidate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Machine learning",
@@ -148,20 +176,6 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor Yanni Dong",
-      "url": "https://rsit.top/",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "My Master primary supervisor."
-    },
-    {
-      "name": "Professor Tao (Kevin) Huang",
-      "url": "https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html",
-      "icon": "fa-solid fa-laptop",
-      "reference": "My PhD primary supervisor."
-    }
-  ],
   "projects": [
     {
       "name": "Research on Deep Migration Measure Learning Method for Hyperspectral Remote Sensing Image Classification",
@@ -181,3 +195,20 @@
     }
   ]
 }
+
+
+
+// "references": [
+//   {
+//     "name": "Professor Yanni Dong",
+//     "url": "https://rsit.top/",
+//     "icon": "fa-solid fa-thumbtack",
+//     "reference": "My Master primary supervisor."
+//   },
+//   {
+//     "name": "Professor Tao (Kevin) Huang",
+//     "url": "https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html",
+//     "icon": "fa-solid fa-laptop",
+//     "reference": "My PhD primary supervisor."
+//   }
+// ],

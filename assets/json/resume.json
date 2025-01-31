@@ -195,20 +195,3 @@
     }
   ]
 }
-
-
-
-// "references": [
-//   {
-//     "name": "Professor Yanni Dong",
-//     "url": "https://rsit.top/",
-//     "icon": "fa-solid fa-thumbtack",
-//     "reference": "My Master primary supervisor."
-//   },
-//   {
-//     "name": "Professor Tao (Kevin) Huang",
-//     "url": "https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html",
-//     "icon": "fa-solid fa-laptop",
-//     "reference": "My PhD primary supervisor."
-//   }
-// ],

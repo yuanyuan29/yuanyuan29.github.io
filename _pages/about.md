@@ -8,11 +8,11 @@ profile:
   align: right
   image: profilePhoto/yuanyuan.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Yuan Yuan</p>
-    <p>yyua9990@uni.sydney.edu.au</p>
-    <p>Doctor of Philosophy in Engineering</p>
-    <p>NSW, Australia</p>
+  # more_info: >
+  #   <p>Yuan Yuan</p>
+  #   <p>yyua9990@uni.sydney.edu.au</p>
+  #   <p>Doctor of Philosophy in Engineering</p>
+  #   <p>NSW, Australia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

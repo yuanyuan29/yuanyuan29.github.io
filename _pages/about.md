@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: cv
 permalink: /
-title: cv
+title: about
 nav: true
 nav_order: 1
 # I can update the PDF

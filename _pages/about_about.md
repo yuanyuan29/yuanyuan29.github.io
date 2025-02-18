@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+nav: False
 permalink: /
 subtitle: <a href='https://www.sydney.edu.au/'>Affiliations</a>. University of Sydney, Sydney, NSW, Australia.
 

@@ -2,7 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+# nav: true
+nav: False
 nav_order: 5
 # I can update the PDF
 cv_pdf: example_pdf.pdf

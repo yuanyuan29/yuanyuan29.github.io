@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: CV
 permalink: /
-title: Yuan Yuan
+title: CV
 nav: true
 nav_order: 1
 # I can update the PDF

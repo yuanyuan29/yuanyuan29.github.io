@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduate from China University of Geoscience, Wuhan. Thanks for my supervisor [Yanni Dong](https://rsit.top/home.html) and all of my friends. :sparkles: :smile:
+Northwestern Polytechnical University (NPU) and The University of Sydney (USYD). :sparkles: :smile:

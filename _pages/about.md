@@ -3,7 +3,7 @@ layout: cv
 permalink: /
 title: cv
 nav: true
-nav_order: 5
+nav_order: 1
 # I can update the PDF
 cv_pdf: yuanyuan_cv.pdf
 description: This is a description of the page.

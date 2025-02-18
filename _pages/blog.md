@@ -4,6 +4,7 @@ permalink: /blog/
 title: blog
 # 下面是ture 就是显示
 # nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true

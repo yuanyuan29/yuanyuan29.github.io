@@ -20,4 +20,7 @@ profile:
   #   <p>yyua9990@uni.sydney.edu.au</p>
   #   <p>Doctor of Philosophy in Engineering</p>
   #   <p>NSW, Australia</p>
+
+
+social: true # includes social icons at the bottom of the page
 ---

@@ -63,6 +63,14 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+    
+    <!-- Volunteer -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">selected publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}

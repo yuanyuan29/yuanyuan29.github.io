@@ -1,24 +1,13 @@
 ---
 layout: post
-title: I enrolled in my research degree at University of Sydney, Australia. 
-date: 2020-07-01 15:08:00-0400
+title: Biomedical Data Analysis and Visualisation (BDAV) Lab, USYD 
+date: 2023-05-01 15:08:00-0400
 inline: false
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
-
-After months of waiting, I enrolled in my research degree at James Cook University. :sparkles: :smile:
-
-
-Degree:                                                       Doctor of Philosophy (Engineering and Related Technologies)
-
-Campus:                                                     Cairns Nguma-bada
-
-Attendance mode:                                      Internal Full time 
-
-Primary Advisor:                                         Dr Tao Huang
-
-Secondary Advisor/s:                                  Professor Wei Xiang
-
-Advisor Mentor:                                           Professor Wei Xiang 
+Deep Learning for Focal Liver Lesions Diagnosis Using Multimodal MRI Sydney, Australia
+- Proposed a deep learning model for seven-class FLL classification using multiparametric MRI with 8 sequences.
+- Proposed a Pyramid Lattice Network (PLN) to adaptively fuse 2D and 3D features for balanced learning of anisotropic mpMRI semantics.
+- Proposed a multi-node adaptive attention module (MAAM) that dynamically selects and integrates features encoding different-level anisotropic information.
+- Proposed a self-supervised pre-training technique to enable the model to learn the anisotropic features from the images using large-scale unlabeled data.

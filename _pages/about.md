@@ -5,6 +5,9 @@ nav: False
 permalink: /
 subtitle: <a href='https://www.sydney.edu.au/'>Affiliations</a>. University of Sydney, Sydney, NSW, Australia.
 
+toc:
+  sidebar: left
+
 profile:
   align: right
   image: profilePhoto/yuanyuan.jpg

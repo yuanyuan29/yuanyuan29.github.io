@@ -7,6 +7,6 @@ related_posts: false
 ---
 
 Doctor of Philosophy (Computer Science) Sydney, Australia
-• Research Areas: Deep Learning, Computer Vision, Multimodal Medical Image Analysis
-• Supervisors: Prof. Jinman Kim, Prof. Mohamed Khadra, Dr. Euijoon Ahn, Prof. Dagan Feng
-• Thesis: Multimodal Medical Image Analysis for Cancer Diagnosis and Prognosis
+- Research Areas: Deep Learning, Computer Vision, Multimodal Medical Image Analysis
+- Supervisors: Prof. Jinman Kim, Prof. Mohamed Khadra, Dr. Euijoon Ahn, Prof. Dagan Feng
+- Thesis: Multimodal Medical Image Analysis for Cancer Diagnosis and Prognosis

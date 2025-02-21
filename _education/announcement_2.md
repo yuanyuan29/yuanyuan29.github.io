@@ -7,6 +7,5 @@ related_posts: false
 ---
 
 Bachelor of Engineering (Information Engineering) Xi’an, China
-• Thesis (External Collaboration): Image Content Understanding Based on Geometric Structure (in
-collaboration with Shanghai Jiao Tong University (SJTU))
-• Outstanding Graduate (Top 5%) | GPA: 89.6/100
+- Thesis (External Collaboration): Image Content Understanding Based on Geometric Structure (in collaboration with Shanghai Jiao Tong University (SJTU))
+- Outstanding Graduate (Top 5%) | GPA: 89.6/100

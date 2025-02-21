@@ -5,4 +5,4 @@ nav: false
 permalink: /volunteer/
 ---
 
-{% include news.liquid %}
+{% include volunteer.liquid %}

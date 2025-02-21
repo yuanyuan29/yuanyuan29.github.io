@@ -177,6 +177,26 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
+  education:
+    defaults:
+      layout: post
+    output: true
+    permalink: /education/:path/
+  projects_about:
+    defaults:
+      layout: post
+    output: true
+    permalink: /projects_about/:path/
+  competitions:
+    defaults:
+      layout: post
+    output: true
+    permalink: /competitions/:path/
+  awards:
+    defaults:
+      layout: post
+    output: true
+    permalink: /awards/:path/
   news:
     defaults:
       layout: post

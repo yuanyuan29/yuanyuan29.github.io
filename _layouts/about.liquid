@@ -49,11 +49,11 @@ layout: default
     {% endif %}
 
     <!-- projects -->
-    {% if page.projects %}
+    {% if page.projects_about %}
       <h2>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">projects</a>
+        <a href="{{ '/projects_about/' | relative_url }}" style="color: inherit">projects</a>
       </h2>
-      {% include projects.liquid %}
+      {% include projects_about.liquid %}
     {% endif %}
 
     <!-- Work experiences -->

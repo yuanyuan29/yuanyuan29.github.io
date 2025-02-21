@@ -187,6 +187,11 @@ collections:
       layout: post
     output: true
     permalink: /projects_about/:path/
+  work:
+    defaults:
+      layout: post
+    output: true
+    permalink: /work/:path/
   competitions:
     defaults:
       layout: post

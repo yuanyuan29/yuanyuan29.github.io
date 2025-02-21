@@ -182,6 +182,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  volunteer:
+    defaults:
+      layout: post
+    output: true
+    permalink: /volunteer/:path/
   projects:
     output: true
     permalink: /projects/:path/

@@ -40,6 +40,46 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Education -->
+    {% if page.education %}
+      <h2>
+        <a href="{{ '/education/' | relative_url }}" style="color: inherit">education</a>
+      </h2>
+      {% include education.liquid %}
+    {% endif %}
+
+    <!-- projects -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">projects</a>
+      </h2>
+      {% include projects.liquid %}
+    {% endif %}
+
+    <!-- Work experiences -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/work/' | relative_url }}" style="color: inherit">work experiences</a>
+      </h2>
+      {% include work.liquid %}
+    {% endif %}
+
+    <!-- competitions -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/competitions/' | relative_url }}" style="color: inherit">competitions</a>
+      </h2>
+      {% include competitions.liquid %}
+    {% endif %}
+
+    <!-- awards -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">awards</a>
+      </h2>
+      {% include awards.liquid %}
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -51,7 +91,7 @@ layout: default
     <!-- Volunteer -->
     {% if page.news %}
       <h2>
-        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">volunteer</a>
+        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">leadership and volunteer experiences</a>
       </h2>
       {% include volunteer.liquid %}
     {% endif %}

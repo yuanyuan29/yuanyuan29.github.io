@@ -18,7 +18,12 @@ profile:
   #   <p>Doctor of Philosophy in Engineering</p>
   #   <p>NSW, Australia</p>
 
+education: true
+projects: true
+work_experiences: true
 news: true # includes a list of news items
+competitions: true
+awards: true
 volunteer: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

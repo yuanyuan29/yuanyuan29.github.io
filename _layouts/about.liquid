@@ -43,7 +43,7 @@ layout: default
     <!-- Education -->
     {% if page.education %}
       <h2>
-        <a href="{{ '/education/' | relative_url }}" style="color: inherit">education</a>
+        <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
       </h2>
       {% include education.liquid %}
     {% endif %}
@@ -51,7 +51,7 @@ layout: default
     <!-- projects -->
     {% if page.projects_about %}
       <h2>
-        <a href="{{ '/projects_about/' | relative_url }}" style="color: inherit">projects</a>
+        <a href="{{ '/projects_about/' | relative_url }}" style="color: inherit">Projects</a>
       </h2>
       {% include projects_about.liquid %}
     {% endif %}
@@ -59,7 +59,7 @@ layout: default
     <!-- Work experiences -->
     {% if page.projects %}
       <h2>
-        <a href="{{ '/work/' | relative_url }}" style="color: inherit">work experiences</a>
+        <a href="{{ '/work/' | relative_url }}" style="color: inherit">Work experiences</a>
       </h2>
       {% include work.liquid %}
     {% endif %}
@@ -67,7 +67,7 @@ layout: default
     <!-- competitions -->
     {% if page.projects %}
       <h2>
-        <a href="{{ '/competitions/' | relative_url }}" style="color: inherit">competitions</a>
+        <a href="{{ '/competitions/' | relative_url }}" style="color: inherit">Competitions</a>
       </h2>
       {% include competitions.liquid %}
     {% endif %}
@@ -75,7 +75,7 @@ layout: default
     <!-- awards -->
     {% if page.projects %}
       <h2>
-        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">awards</a>
+        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">Awards</a>
       </h2>
       {% include awards.liquid %}
     {% endif %}
@@ -83,7 +83,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -91,7 +91,7 @@ layout: default
     <!-- Volunteer -->
     {% if page.news %}
       <h2>
-        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">leadership and volunteer experiences</a>
+        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">Leadership and volunteer experiences</a>
       </h2>
       {% include volunteer.liquid %}
     {% endif %}
@@ -99,7 +99,7 @@ layout: default
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
@@ -108,7 +108,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

@@ -1,24 +1,12 @@
 ---
 layout: post
-title: I enrolled in my research degree at University of Sydney, Australia. 
-date: 2020-07-01 15:08:00-0400
+title: Northwestern Polytechnical University (NPU)
+date: 2015-09-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
-
-After months of waiting, I enrolled in my research degree at James Cook University. :sparkles: :smile:
-
-
-Degree:                                                       Doctor of Philosophy (Engineering and Related Technologies)
-
-Campus:                                                     Cairns Nguma-bada
-
-Attendance mode:                                      Internal Full time 
-
-Primary Advisor:                                         Dr Tao Huang
-
-Secondary Advisor/s:                                  Professor Wei Xiang
-
-Advisor Mentor:                                           Professor Wei Xiang 
+Bachelor of Engineering (Information Engineering) Xi’an, China
+• Thesis (External Collaboration): Image Content Understanding Based on Geometric Structure (in
+collaboration with Shanghai Jiao Tong University (SJTU))
+• Outstanding Graduate (Top 5%) | GPA: 89.6/100

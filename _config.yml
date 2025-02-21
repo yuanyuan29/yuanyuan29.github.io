@@ -384,8 +384,8 @@ imagemagick:
     # - 800
     # - 1400
     - 300
-    - 600
-    - 1000
+    - 400
+    - 500
   input_directories:
     - assets/img/
   input_formats:

@@ -48,6 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Volunteer -->
+    {% if page.news %}
+      <h2>
+        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">volunteer</a>
+      </h2>
+      {% include news.liquid %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -55,6 +63,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -64,13 +73,7 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
     
-    <!-- Volunteer -->
-    {% if page.news %}
-      <h2>
-        <a href="{{ '/volunteer/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include news.liquid %}
-    {% endif %}
+
 
     <!-- Social -->
     {% if page.social %}

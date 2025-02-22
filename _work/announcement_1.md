@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visiting Research Student, Cairns, Australia, James Cook University
-date: 2025-02-01 13:14:00-0400
+date: 2024-10-01 13:14:00-0400
 inline: false
 related_posts: false
 ---

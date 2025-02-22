@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-15 07:59:00-0400
+date: 2016-01-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
+Scholarship of Outstanding Student (1st class), NPU, twice on 2016 & 2018

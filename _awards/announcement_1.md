@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-22 13:14:00-0400
+date: 2016-01-01 13:14:00-0400
 inline: true
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
+Xianzi Zeng Education Foundation’s 6th Outstanding University Student Award Program, thrice on 2016 & 2017 & 2018

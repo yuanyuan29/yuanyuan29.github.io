@@ -1,24 +1,8 @@
 ---
 layout: post
-title: I enrolled in my research degree at University of Sydney, Australia. 
-date: 2020-07-01 15:08:00-0400
-inline: false
+date: 2016-01-01 15:08:00-0400
+inline: True
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
-
-After months of waiting, I enrolled in my research degree at James Cook University. :sparkles: :smile:
-
-
-Degree:                                                       Doctor of Philosophy (Engineering and Related Technologies)
-
-Campus:                                                     Cairns Nguma-bada
-
-Attendance mode:                                      Internal Full time 
-
-Primary Advisor:                                         Dr Tao Huang
-
-Secondary Advisor/s:                                  Professor Wei Xiang
-
-Advisor Mentor:                                           Professor Wei Xiang 
+Advanced Individual Award in the May 4th Commendation, NPU, thrice on 2016 & 2017 & 2018

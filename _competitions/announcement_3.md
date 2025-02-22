@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-01-15 07:59:00-0400
+title: 3rd Prize in the 10th NPU New Concept Marine Vehicle Design Competition
+date: 2018-01-01 13:14:00-0400
 inline: true
 related_posts: false
 ---
-
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:

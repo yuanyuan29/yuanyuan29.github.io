@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Outstanding Trainee, Career and Leadership Development Program, NPU
+Founder and Chair of Student Literature Society, NPU, from 2016 to 2017

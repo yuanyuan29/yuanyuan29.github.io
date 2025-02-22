@@ -20,7 +20,7 @@ profile:
 
 education: true
 projects_about: true
-work_experiences: true
+work: true
 news: true # includes a list of news items
 competitions: true
 awards: true

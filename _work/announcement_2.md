@@ -1,24 +1,15 @@
 ---
 layout: post
-title: I enrolled in my research degree at University of Sydney, Australia. 
-date: 2020-07-01 15:08:00-0400
-inline: false
+title: The University of Sydney
+date: 2024-12-01 13:14:00-0400
+inline: true
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
-
-After months of waiting, I enrolled in my research degree at James Cook University. :sparkles: :smile:
-
-
-Degree:                                                       Doctor of Philosophy (Engineering and Related Technologies)
-
-Campus:                                                     Cairns Nguma-bada
-
-Attendance mode:                                      Internal Full time 
-
-Primary Advisor:                                         Dr Tao Huang
-
-Secondary Advisor/s:                                  Professor Wei Xiang
-
-Advisor Mentor:                                           Professor Wei Xiang 
+Casual Academic (Tutor), Sydney, Australia, From 12 2024
+- Tutor the course ENGG1810 – Introduction to Engineering Computing.
+Research Assistant, Sydney, Australia, From 02 2025 
+- Engage with clinicians to define research objectives and data acquisition protocols.
+- Develop advanced deep learning algorithms for medical image analysis.
+- Assist in writing research papers, reports, and other documents.
+- Prepare materials for academic presentations, conferences, or seminars.

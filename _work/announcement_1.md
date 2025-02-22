@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2023-05-22 13:14:00-0400
+title: James Cook University
+date: 2024-10-01 13:14:00-0400
 inline: true
 related_posts: false
 ---
 
-announcement_1 announcement_1 announcement_1 announcement_1. :sparkles: :smile:
+Visiting Research Student, Cairns, Australia, From 10 2024
+- Conduct a comprehensive literature review on vision-language models (VLMs).
+- Assist in writing research papers, summaries, and research proposals for funding applications.
+- Help design and fine-tune vision-language models for specific medical imaging tasks (e.g., disease diagnosis).

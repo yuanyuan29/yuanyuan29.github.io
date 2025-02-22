@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Visual Media and Data Management Lab, SJTU
-date: 2018-11-01 15:08:00-0400
-inline: false
+title: USYD & Nepean Hospital
+date: 2022-03-01 13:14:00-0400
+inline: true
 related_posts: false
 ---
 
-mage Content Understanding Based on Geometric Structure Shanghai, China
-- Proposed a parallel CNN architecture to recover albedo and shading for single image intrinsic decomposition in
-parallel.
-- The image reconstruction loss function was shared across the parallel networks to maximize reconstruction
-consistency.
-- Integrated gradient information into the CNN-based model, leveraging physics-based priors to better handle
-complex real-world scenarios.
+[Deep Learning for Prostate Cancer Detection and Diagnosis Using Multimodal MRI](https://github.com/yuanyuan29/Z-SSMNet) Sydney, Australia
+- Proposed a Zonal-aware Self-supervised Mesh Network (Z-SSMNet) for clinically significant prostate cancer
+(csPCa) detection and diagnosis using bi-parametric MRI (bpMRI).
+- The proposed network adaptively fused multiple 2D/2.5D/3D convolutional neural networks (CNNs) to capture
+a balanced representation of dense intra-plane information and sparse inter-plane information of bpMRI.
+- Introduced a self-supervised learning technique to pre-train the network using large-scale unlabeled data.
+- Proposed a network constraint technique to enhance csPCa detection by focusing on zonal anatomical regions.

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Center of Intelligent Acoustics and Immersive Communications (CIAIC), NPU
-date: 2017-12-01 15:08:00-0400
+title: Biomedical Data Analysis and Visualisation (BDAV) Lab, USYD 
+date: 2023-05-01 15:08:00-0400
 inline: false
 related_posts: false
 ---
 
-Multimodal Emotion Recognition Using EEG and Speech Signals Xi’an, China
-- Studied speech signal processing and analytical methods, applying SVM, ELM, and GMM for discrete-speech emotion classification. Collected data for model training, validation, and testing.
-- Studied EEG theory, recorded and processed EPR statistics, conducted EEG experiments, and analyzed data using Curry 8/EEGLAB, applying PCA for feature dimensionality reduction.
-- Studied emotion recognition using EEG and speech signals, applied ANOVA for feature selection, and analyzed the impact of environmental deviation and sentiment on emotion classification.
+Deep Learning for Focal Liver Lesions Diagnosis Using Multimodal MRI Sydney, Australia
+- Proposed a deep learning model for seven-class FLL classification using multiparametric MRI with 8 sequences.
+- Proposed a Pyramid Lattice Network (PLN) to adaptively fuse 2D and 3D features for balanced learning of anisotropic mpMRI semantics.
+- Proposed a multi-node adaptive attention module (MAAM) that dynamically selects and integrates features encoding different-level anisotropic information.
+- Proposed a self-supervised pre-training technique to enable the model to learn the anisotropic features from the images using large-scale unlabeled data.

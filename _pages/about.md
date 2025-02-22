@@ -11,7 +11,7 @@ toc:
 profile:
   align: right
   image: profilePhoto/yuanyuan.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>Yuan Yuan</p>
   #   <p>yyua9990@uni.sydney.edu.au</p>
@@ -19,7 +19,7 @@ profile:
   #   <p>NSW, Australia</p>
 
 education: true
-projects: true
+projects_about: true
 work_experiences: true
 news: true # includes a list of news items
 competitions: true

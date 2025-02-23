@@ -11,6 +11,7 @@ toc:
 profile:
   align: right
   image: profilePhoto/yuanyuan.jpg
+  image_width: 350px
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>Yuan Yuan</p>

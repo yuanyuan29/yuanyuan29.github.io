@@ -27,6 +27,13 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
+// 灰色改成黑色
+$grey-color: #000000 !default;
+$grey-color-light: #000000 !default;
+$grey-color-dark: #000000 !default;
+$grey-900: #000000 !default;
+
+
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 

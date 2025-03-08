@@ -1,6 +1,6 @@
 ---
 layout: page
-title: work
+title: Work
 nav: false
 permalink: /work/
 ---

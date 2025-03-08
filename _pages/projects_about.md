@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects_about
+title: Projects
 nav: false
 permalink: /projects_about/
 ---

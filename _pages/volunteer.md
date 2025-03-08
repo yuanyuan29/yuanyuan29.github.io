@@ -1,6 +1,6 @@
 ---
 layout: page
-title: volunteer
+title: Leadership and volunteer experiences
 nav: false
 permalink: /volunteer/
 ---

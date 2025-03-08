@@ -1,6 +1,6 @@
 ---
 layout: page
-title: competitions
+title: Competitions
 nav: false
 permalink: /competitions/
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: competitions
+title: awards
 nav: false
-permalink: /competitions/
+permalink: /awards/
 ---
 
 {% include competitions.liquid %}
